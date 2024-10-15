@@ -1,0 +1,3 @@
+url,email,submission_time,domain,age_of_domain,protocol
+http://example.com,example@example.com,2023-01-01 12:00:00,example.com,5,https
+http://phishing.com,phisher@phishing.com,2023-01-02 12:00:00,phishing.com,2,http
